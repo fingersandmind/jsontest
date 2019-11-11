@@ -6,20 +6,6 @@
             "MODEL": "HW-05MCQ",
             "DESCRIPTION": "WINDOW MANUAL",
             "NETCOST": " 7,116.00 "
-        },
-        {
-            "BRAND": "HAIER",
-            "TYPE": "WINDOW",
-            "MODEL": "HW-07MCQ13",
-            "DESCRIPTION": "WINDOW MANUAL",
-            "NETCOST": " 10,416.00 "
-        },
-        {
-            "BRAND": "HAIER",
-            "TYPE": "WINDOW",
-            "MODEL": "HW-09MCQ13",
-            "DESCRIPTION": "WINDOW MANUAL",
-            "NETCOST": " 11,916.00 "
         }
     ]
 }
